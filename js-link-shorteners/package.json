@@ -1,13 +1,13 @@
 {
     "name": "link-shorteners",
-    "version": "1.0.0",
+    "version": "1.0.3",
     "main": "src/index.js",
     "files": ["src"],
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "description": "",
-    "keywords": [],
-    "author": "",
-    "license": "ISC"
+    "description": "List of all URL shorteners, such as bitly, tinyurl, shorturl, and many others.",
+    "keywords": ["link shortener", "link shorteners", "url shortener", "URL shorteners"],
+    "author": "Maya Kyler",
+    "license": "MIT"
 }

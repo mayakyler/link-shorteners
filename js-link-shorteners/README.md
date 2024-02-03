@@ -27,23 +27,25 @@ This list empowers link shortening platforms to effectively restrict the usage o
 
 ## Installation
 
-You can install the `link-shorteners` package using pip. Open your terminal and run the following command:
+You can install the `link-shorteners` package using npm. Open your terminal and run the following command:
 
 ```bash
-pip install link-shorteners
+npm install link-shorteners
 ```
 
 Make sure that you are always upgrading to the latest version of link-shorteners so your list of link shorteners is up-to-date!
 
 ## Usage
-```python
-from link_shorteners import link_shorteners_list
-banned_shorteners = link_shorteners_list()
+```javascript
+const linkShorteners = require("link-shorteners");
 
-url_to_check = "https://bit.ly/abc123"
+bannedShorteners = linkShorteners.listLinkShorterners();
 
-if any([x in url_to_check.lower() for x in banned_shorteners]):
-    print("The URL is blocked")
+urlToCheck = "https://bit.ly/abc123"
+
+if (bannedShorteners.some(shortener => urlToCheck.toLowerCase().includes(shortener))) {
+    console.log("The URL is blocked");
+}
 
 ```
 
