@@ -28,6 +28,7 @@ cutt.ly
 da.gd
 destyy.com
 dik.si
+dub.co
 dub.sh
 etiny.ios
 extbr.com
@@ -41,6 +42,7 @@ grabify.link
 han.gl
 hi.switchy.io
 hurlurl.com
+hynt.us
 idm.in
 is.gd
 joturl.com
