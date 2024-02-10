@@ -1,6 +1,6 @@
 {
     "name": "link-shorteners",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "main": "src/index.js",
     "files": ["src"],
     "scripts": {
