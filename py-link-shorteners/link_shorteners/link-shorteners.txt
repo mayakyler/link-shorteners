@@ -1,9 +1,11 @@
+
 0.gp
 1kb.link
 1pt.one
 1t.ie
 2.gp
 2.ly
+2s.gg
 3.ly
 4.gp
 4.ly
@@ -37,6 +39,7 @@ g.asia
 g.co
 geno.link
 gg.gg
+goo.su
 gorgeous.ly
 grabify.link
 han.gl
@@ -61,6 +64,7 @@ msteams.link
 multy.me
 my.allevents.in
 nanourly.vercel.app
+nev.lt
 oe.cd
 osdb.link
 ouo.press
@@ -99,6 +103,7 @@ tinylinks.cc
 tinyurl.com
 tnshort.net
 tny.im
+u.to
 ulvis.net
 ur3.us
 urlr.me
