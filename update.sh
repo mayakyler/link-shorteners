@@ -15,8 +15,8 @@ if [ "$last_char" != $'\n' ]; then
     STRING_TO_APPEND="$STRING_TO_APPEND"$'\n'
 fi
 
-echo "$STRING_TO_APPEND" >> "$PATH_JS"
-echo "$STRING_TO_APPEND" >> "$PATH_PY"
+echo -n "$STRING_TO_APPEND" >> "$PATH_JS"
+echo -n "$STRING_TO_APPEND" >> "$PATH_PY"
 
-sort -u "$PATH_JS" -o "$PATH_JS"
-sort -u "$PATH_PY" -o "$PATH_PY"
+grep . "$PATH_JS" | sort -u -o "$PATH_JS"
+grep . "$PATH_PY" | sort -u -o "$PATH_PY"
