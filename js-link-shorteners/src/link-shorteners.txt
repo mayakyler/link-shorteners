@@ -5,6 +5,7 @@
 2.gp
 2.ly
 2s.gg
+2u.pw
 3.ly
 4.gp
 4.ly
@@ -34,6 +35,8 @@ dub.sh
 etiny.ios
 extbr.com
 fc.lc
+fd.ax
+ft.ax
 g.asia
 g.co
 geno.link
@@ -41,13 +44,17 @@ gg.gg
 goo.su
 gorgeous.ly
 grabify.link
+gx.ax
 han.gl
 hi.switchy.io
+hq.ax
+href.li
 hurlurl.com
 hynt.us
 idm.in
 is.gd
 joturl.com
+jx.ax
 katana.run
 kutt.it
 l00p.eu
@@ -64,6 +71,7 @@ multy.me
 my.allevents.in
 nanourly.vercel.app
 nev.lt
+nx.ax
 oe.cd
 osdb.link
 ouo.press
@@ -80,6 +88,7 @@ s.id
 shortcm.xyz
 shortenk.com
 shorter.gg
+shortify.pro
 shorturl.ac
 shorturl.at
 shrinke.me
@@ -89,6 +98,7 @@ sitistore.Inkiy.in
 snip.ly
 socx.ly
 sprl.in
+sq.ax
 srty.link
 surl.li
 t.co
@@ -110,6 +120,7 @@ urlzs.com
 usehyperlink.com
 v.gd
 viprul.in
+wx.ax
 xpshort.com
 zeep.ly
 zurl.co
