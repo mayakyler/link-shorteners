@@ -4,6 +4,7 @@
 1t.ie
 2.gp
 2.ly
+2024-Feb-17
 2s.gg
 2u.pw
 3.ly
@@ -27,10 +28,10 @@ clck.ru
 cleanuri.com
 cozn.short.gy
 cutt.ly
+d.to
 da.gd
 destyy.com
 dik.si
-dub.co
 dub.sh
 etiny.ios
 extbr.com
@@ -53,6 +54,7 @@ hurlurl.com
 hynt.us
 idm.in
 is.gd
+ishortn.ink
 joturl.com
 jx.ax
 katana.run
@@ -64,11 +66,13 @@ linksplit.io
 linkthin.tk
 linp.io
 lstu.fr
+m-r.pw
 maglit.me
 mailxto.com
 msteams.link
 multy.me
 my.allevents.in
+n9.cl
 nanourly.vercel.app
 nev.lt
 nx.ax
@@ -108,11 +112,13 @@ tapbio.link
 tinu.be
 tiny.cc
 tiny.ie
+tiny.pl
 tinylinks.cc
 tinyurl.com
 tnshort.net
 tny.im
 u.to
+uc.ax
 ulvis.net
 ur3.us
 urlr.me
@@ -122,6 +128,7 @@ v.gd
 viprul.in
 wx.ax
 xpshort.com
+y.gy
 zeep.ly
 zurl.co
 zxlink.in

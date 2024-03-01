@@ -4,7 +4,7 @@ This repository provides a list of all known link shorteners (also known as URL 
 This can help you block or filter link shorteners from your service. We are promoting responsible link shortening practices and trying to prevent spam.
 Built by [Maya](https://mayakyler.com) from [y.gy](https://app.y.gy).
 
-**Latest Version**: 1.0.7 released on 2024-Feb-11
+**Latest Version**: 1.0.9 released on 2024-Feb-17
 
 ## Packages
 
@@ -29,3 +29,8 @@ We welcome contributions from the community to enhance and expand the list of li
 ## Motivation
 
 Our motivation for building and maintaining this repository stems from our experience building [y.gy](https://app.y.gy/), a link shortening platform. Facing challenges such as spam via other link-shortening platforms, we created this list to empower developers to efficiently block unwanted/spam links in destination URLs. By utilizing this package, you can enhance the security and integrity of your platform, making it a safer space for users.
+
+## See Also
+
+- [Peter Dave's Link Shortener Repo](https://github.com/PeterDaveHello/url-shorteners)
+- [738's List of URL Shorteners](https://github.com/738/awesome-url-shortener?tab=readme-ov-file)
