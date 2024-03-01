@@ -4,7 +4,7 @@ This repository provides a list of all known link shorteners (also known as URL 
 This can help you block or filter link shorteners from your service. We are promoting responsible link shortening practices and trying to prevent spam.
 Built by [Maya](https://mayakyler.com) from [y.gy](https://app.y.gy).
 
-**Latest Version**: 1.0.9 released on 2024-Feb-17
+**Latest Version**: 1.0.9 released on 2024-Mar-1
 
 ## Packages
 
