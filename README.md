@@ -4,7 +4,7 @@ This repository provides a list of all known link shorteners (also known as URL 
 This can help you block or filter link shorteners from your service. We are promoting responsible link shortening practices and trying to prevent spam.
 Built by [Maya](https://mayakyler.com) from [y.gy](https://app.y.gy).
 
-**Latest Version**: 1.0.9 released on 2024-Mar-1
+**Latest Version**: 1.10.0 released on 2024-Mar-8
 
 ## Packages
 
@@ -30,7 +30,17 @@ We welcome contributions from the community to enhance and expand the list of li
 
 Our motivation for building and maintaining this repository stems from our experience building [y.gy](https://app.y.gy/), a link shortening platform. Facing challenges such as spam via other link-shortening platforms, we created this list to empower developers to efficiently block unwanted/spam links in destination URLs. By utilizing this package, you can enhance the security and integrity of your platform, making it a safer space for users.
 
+## Trusted Link Shorteners
+
+We do not include in this list a handful of link shorteners that are trusted to always lead to legitimate corporate pages:
+
+- a.co (Amazon)
+- g.co (Google)
+
+If you represent a major trusted website that uses a shortener only for internal links, let us know and we'll put it on this list.
+
 ## See Also
 
 - [Peter Dave's Link Shortener Repo](https://github.com/PeterDaveHello/url-shorteners)
 - [738's List of URL Shorteners](https://github.com/738/awesome-url-shortener?tab=readme-ov-file)
+- [Tim Leland's List of URL Shorteners](https://github.com/timleland/url-shorteners)
