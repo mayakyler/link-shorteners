@@ -688,7 +688,6 @@ fwme.eu
 fxn.ws
 g-web.in
 g.asia
-g.page
 g.ro.lt
 g00.me
 g02.ir
