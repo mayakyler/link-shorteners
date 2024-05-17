@@ -1785,7 +1785,6 @@ t.iotex.me
 t.lh.com
 t.libren.ms
 t.ly
-t.me
 t.tl
 t1p.de
 t2m.io
