@@ -4,7 +4,7 @@ This repository provides a list of all known link shorteners (also known as URL 
 This can help you block or filter link shorteners from your service. We are promoting responsible link shortening practices and trying to prevent spam.
 Built by [Maya](https://mayakyler.com) from [y.gy](https://app.y.gy).
 
-**Latest Version**: 1.10.0 released on 2024-Mar-8
+**Latest Version**: 1.12.0 released on 2024-Jun-05
 
 ## Packages
 
@@ -36,6 +36,8 @@ We do not include in this list a handful of link shorteners that are trusted to 
 
 - a.co (Amazon)
 - g.co (Google)
+- discord.gg (Discord)
+- do.co (DigitalOcean)
 
 If you represent a major trusted website that uses a shortener only for internal links, let us know and we'll put it on this list.
 

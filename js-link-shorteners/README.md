@@ -4,7 +4,7 @@ This package exposes a list of all known link shorteners (also known as URL shor
 This can help you block or filter link shorteners. We are promoting responsible link shortening practices and trying to cut down on spam.
 Built by [Maya](https://mayakyler.com) from [y.gy](https://app.y.gy).
 
-**Latest Version**: 1.10.0 released on 2024-Mar-8
+**Latest Version**: 1.12.0 released on 2024-Mar-8
 
 ## Table of Contents
 - [Key Features](#key-features)

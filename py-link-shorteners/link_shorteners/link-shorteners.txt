@@ -533,7 +533,6 @@ dibb.me
 dik.si
 dis.gd
 dis.tl
-discord.gg
 discvr.co
 disq.us
 dive.pub
@@ -548,7 +547,6 @@ dlsh.it
 dlvr.it
 dmdi.pl
 dmreg.co
-do.co
 do.my
 dockr.ly
 doiop.com
@@ -688,6 +686,7 @@ fwme.eu
 fxn.ws
 g-web.in
 g.asia
+g.page
 g.ro.lt
 g00.me
 g02.ir
@@ -1784,6 +1783,7 @@ t.iotex.me
 t.lh.com
 t.libren.ms
 t.ly
+t.me
 t.tl
 t1p.de
 t2m.io
