@@ -1625,6 +1625,7 @@ shorte.st
 shorten.asia
 shortenk.com
 shorter.gg
+shorter.me
 shortify.pro
 shortna.me
 shorturl.ac

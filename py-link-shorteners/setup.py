@@ -5,7 +5,7 @@ with open("README.md", "r") as f:
 
 setup(
     name="link-shorteners",
-    version="1.12.0",
+    version="1.13.0",
     description="List of all URL shorteners, such as bitly, tinyurl, shorturl, and many others.",
     long_description=long_description,
     long_description_content_type="text/markdown",
