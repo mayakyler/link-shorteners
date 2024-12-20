@@ -1,0 +1,35 @@
+*.sw*
+wtl.zip
+.DS_Store
+
+# Byte-compiled / optimized / DLL files
+*__pycache__/
+*.pyc
+*.py[cod]
+*$py.class
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Other
+*.pem
+*.key
+.DS_Store
+ignore/
+.vscode/
+init_local_secrets.sh
+.venv
+recreate_database.py
+create_database.py
+.idea
+venv
